@@ -87,7 +87,7 @@ At each step, **Core/Engine.py** performs:
 │   ├── Mobility_functions.py
 │   └── Simulator_functions.py
 ```
-
+---
 
 ## Configuration Files
 
@@ -96,7 +96,7 @@ At each step, **Core/Engine.py** performs:
 **RIS.json** – Defines RIS parameters and per-element responses
 **Environment.json** – Defines simulation environment (dimensions, layout)
 
----
+
 
 ## Interfaces
 
