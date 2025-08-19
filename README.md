@@ -86,8 +86,7 @@ At each step, **Core/Engine.py** performs:
 │   ├── Channel_functions.py
 │   ├── Mobility_functions.py
 │   └── Simulator_functions.py
-```
----
+
 
 ## Configuration Files
 
