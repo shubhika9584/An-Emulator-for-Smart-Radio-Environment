@@ -27,14 +27,14 @@ The Emulator consists of two major blocks:
 
 1. **External Entities** (not part of emulator):
 
-     Baseband signal generators
-     RIS Controller
+     Baseband signal generators,
+     RIS Controller,
      Hardware RIS Driver
 
 2. **Emulation Entities** (implemented in emulator):
 
-     SDR Emulation
-     Core Engine (mobility updates, request handling, channel modeling)
+     SDR Emulation,
+     Core Engine (mobility updates, request handling, channel modeling),
      RIS modeling and control
 
 Communication between external entities and emulator is achieved via **Linux FIFO queues, named pipes, and JSON files**.
